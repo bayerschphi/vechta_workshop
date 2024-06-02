@@ -1,4 +1,4 @@
-from vechta_workshop.settings_OHDdash import *
+from settings_OHDdash import *
 
 global top_dic
 global chronology_df

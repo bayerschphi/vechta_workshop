@@ -18,11 +18,11 @@ import base64
 import json
 from functions import top_words
 import copy
-from vechta_workshop.topic_evaluation.bar_graph import bar_graph_corpus
-from vechta_workshop.topic_evaluation.heatmaps import heatmap_corpus
-from vechta_workshop.interview_chronology_analysis import *
-from vechta_workshop.interview_chronology_analysis import chronology_matrix
-from vechta_workshop.Narrative_o_Meter import top_global_correlations_json, global_vertical_correlation_search_json, global_horizontal_correlation_search_json
+from topic_evaluation.bar_graph import bar_graph_corpus
+from topic_evaluation.heatmaps import heatmap_corpus
+from interview_chronology_analysis import *
+from interview_chronology_analysis import chronology_matrix
+from Narrative_o_Meter import top_global_correlations_json, global_vertical_correlation_search_json, global_horizontal_correlation_search_json
 
 
 
